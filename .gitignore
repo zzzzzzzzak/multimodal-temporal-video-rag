@@ -1,0 +1,26 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Unit test / coverage
+.pytest_cache/
+.coverage
+
+# Environments
+.env
+venv/
+.venv/
+
+# Large binaries & media
+*.npy
+*.mp4
+*.avi
+*.pt
+*.pth
+benchmarks/benchmark_results.json
